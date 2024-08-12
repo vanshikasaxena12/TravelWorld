@@ -1,0 +1,23 @@
+[
+    {
+          "tour": "Westminister Bridge",
+          "user": "user",
+          "username": "vermaji",
+          "reviewText":"best place for visit!",
+          "rating":5
+    },
+    {
+          "tour": "Snowy Mountains, Thailand",
+          "user": "anshul",
+          "username": "anshul verma",
+          "reviewText":"best place for visit!",
+          "rating":5
+    },
+    {
+          "tour": "Beautiful Sunrise, Thailand",
+          "user": "anshul verma",
+          "username": "vermaji",
+          "reviewText":"best place for visit!",
+          "rating":5
+    }
+]
