@@ -1,0 +1,30 @@
+/* //create blo  */
+.blog-img {
+  height: 50vh;
+  object-fit: cover;
+  background-size: cover;
+}
+
+.form-data .title-input {
+  width: 65%;
+  font-size: large;
+  font-weight: 600;
+  border: none;
+  margin-left: 2rem;
+  margin: 7px;
+}
+.form-data .title-input:focus {
+  outline: none !important;
+}
+.text-area {
+  border: none;
+  margin-top: 2rem;
+}
+.text-area:focus {
+  outline: none;
+}
+
+.services__title {
+  font-size: 2rem;
+  font-weight: 500;
+}
