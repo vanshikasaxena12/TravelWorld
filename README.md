@@ -1,7 +1,7 @@
 
 # Frontend and Backend of TravelWorld 🌍
 
-A Fullstack Tours & Travels Web App Using MERN Stack 💫
+A Fullstack Tours & Travels Website Using MERN Stack 💫
 
 ## Resources
 
