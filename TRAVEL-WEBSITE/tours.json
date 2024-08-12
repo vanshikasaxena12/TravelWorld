@@ -1,0 +1,173 @@
+[
+    {
+    "title":"Westminister Bridge",
+    "city":"bareilly",
+      "address":"bhojipura",
+      "distance": 50,
+      "photo":"https://travelworldtours.netlify.app/tour-images/tour-img02.jpg" ,
+      "desc":"best place to visit",
+      "price":999 ,
+      "maxGroupSize":8,
+      "reviews": [
+        {
+          "username":"abhishek",
+          "rating":4,
+          "reviewText":"best place to visit" 
+        }
+      ],
+  
+      "featured":true
+    },
+    {
+    "title":"Snowy Mountains, Thailand",
+    "city":"gonda",
+      "address":"gonda",
+      "distance": 90,
+      "photo":"https://travelworldtours.netlify.app/tour-images/tour-img07.jpg" ,
+      "desc":"best place to visit",
+      "price":995 ,
+      "maxGroupSize":4,
+      "reviews": [
+        {
+          "username":"abhishek",
+          "rating":4,
+          "reviewText":"best place to visit" 
+        }
+      ],
+  
+      "featured":true
+    },
+    {
+    "title":"Westminister Bridge",
+    "city":"bareilly",
+      "address":"bhojipura",
+      "distance": 50,
+      "photo":"https://travelworldtours.netlify.app/tour-images/tour-img06.jpg" ,
+      "desc":"best place to visit",
+      "price":999 ,
+      "maxGroupSize":8,
+      "reviews": [
+        {
+          "username":"abhishek",
+          "rating":4,
+          "reviewText":"best place to visit" 
+        }
+      ],
+  
+      "featured":true
+    },
+    {
+    "title":"Beautiful Sunrise, Thailand",
+    "city":"thailand",
+      "address":"thailand",
+      "distance": 300,
+      "photo":"https://travelworldtours.netlify.app/tour-images/tour-img05.jpg" ,
+      "desc":"best place to visit",
+      "price":9999 ,
+      "maxGroupSize":4,
+      "reviews": [
+        {
+          "username":"abhishek",
+          "rating":4,
+          "reviewText":"best place to visit" 
+        }
+      ],
+  
+      "featured":true
+    },
+    {
+    "title":"Nusa Pendia Bali, Indonesia",
+    "city":"indonesia",
+      "address":"indonesia",
+      "distance": 5000,
+      "photo":"https://travelworldtours.netlify.app/tour-images/tour-img03.jpg" ,
+      "desc":"best place to visit",
+      "price":999 ,
+      "maxGroupSize":8,
+      "reviews": [
+        {
+          "username":"abhishek",
+          "rating":4,
+          "reviewText":"best place to visit" 
+        }
+      ],
+  
+      "featured":true
+    },
+    {
+    "title":"Bali, Indonesia",
+    "city":"indonesia",
+      "address":"indonesia",
+      "distance": 1999,
+      "photo":"https://travelworldtours.netlify.app/tour-images/tour-img02.jpg" ,
+      "desc":"best place to visit",
+      "price":99 ,
+      "maxGroupSize":6,
+      "reviews": [
+        {
+          "username":"abhishek",
+          "rating":4,
+          "reviewText":"best place to visit" 
+        }
+      ],
+  
+      "featured":true
+    },
+    {
+    "title":"Cherry Blossoms Spring",
+    "city":"tokyo",
+      "address":"tokyo",
+      "distance": 2300,
+      "photo":"https://travelworldtours.netlify.app/tour-images/tour-img06.jpg" ,
+      "desc":"best place to visit",
+      "price":45,
+      "maxGroupSize":6,
+      "reviews": [
+        {
+          "username":"abhishek",
+          "rating":4,
+          "reviewText":"best place to visit" 
+        }
+      ],
+  
+      "featured":true
+    },
+    {
+    "title":"Holmen Lofoten, France",
+    "city":"peris",
+      "address":"peris",
+      "distance": 1200,
+      "photo":"https://travelworldtours.netlify.app/tour-images/tour-img07.jpg" ,
+      "desc":"best place to visit",
+      "price":88,
+      "maxGroupSize":6,
+      "reviews": [
+        {
+          "username":"abhishek",
+          "rating":4,
+          "reviewText":"best place to visit" 
+        }
+      ],
+  
+      "featured":true
+    },
+    {
+    "title":"Beautiful Snowy Mountains, Thailand",
+    "city":"Bangkok",
+      "address":"Bangkok",
+      "distance": 1300,
+      "photo":"https://travelworldtours.netlify.app/tour-images/tour-img03.jpg" ,
+      "desc":"best place to visit",
+      "price":99,
+      "maxGroupSize":6,
+      "reviews": [
+        {
+          "username":"abhishek",
+          "rating":4,
+          "reviewText":"best place to visit" 
+        }
+      ],
+  
+      "featured":true
+    }
+]
